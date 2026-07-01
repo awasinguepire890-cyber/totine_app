@@ -1,0 +1,14 @@
+{
+  "name": "tontine-app-backend",
+  "version": "1.0.0",
+  "description": "API backend pour l'application de gestion de tontines (Vercel + Neon)",
+  "main": "index.js",
+  "dependencies": {
+    "@neondatabase/serverless": "^0.9.0",
+    "bcryptjs": "^2.4.3",
+    "jsonwebtoken": "^9.0.2"
+  },
+  "engines": {
+    "node": ">=18.x"
+  }
+}
